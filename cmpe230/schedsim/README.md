@@ -45,4 +45,4 @@ echo "SRTF A-4-0 B-1-1" | ./schedsim
 ./schedsim < tests/input/test0.txt
 ```
 
-Then compare the result with `tests/expected/test0.txt`.
+Then compare the result with `tests/expected/test0.txt`. The expected files have no line break at the end, so some compare tools show a difference even when the output is right.

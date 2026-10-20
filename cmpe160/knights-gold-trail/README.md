@@ -30,4 +30,4 @@ Each folder in `tests` is one course test, named after the map size. It has 3 in
 - `objectives.txt`: where the knight starts and where the coins are
 - `output.txt`: the expected path and total cost
 
-The program writes its result to `out/output.txt`. For the bonus test, use `Bonus` instead of `Main` with `tests/20-20-Bonus`. It writes to `out/bonus.txt`.
+The program writes its result to `out/output.txt`. For the bonus test, use `Bonus` instead of `Main` with `tests/20-20-Bonus`. It writes to `out/bonus.txt`. The expected files have no line break at the end, so some compare tools show a difference on the last line even when the output is right.

@@ -35,4 +35,4 @@ Type `Exit` to quit.
 ./spireslayer < tests/input/test2.txt
 ```
 
-Then compare the result with `tests/expected/test2.txt`. Every output line starts with the `»` prompt.
+Then compare the result with `tests/expected/test2.txt`. Every output line starts with the `»` prompt. The expected files have no line break at the end, so some compare tools show a difference on the last line even when the output is right.
