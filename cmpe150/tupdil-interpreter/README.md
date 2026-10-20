@@ -28,3 +28,14 @@ python3 main.py
 ```
 
 Reads `input.tup` and writes the result to `output.txt`.
+
+## Tests
+
+`tests/input` has 75 test programs, and `tests/expected` has the output each one should give. The program always reads `input.tup`, so copy a test there first:
+
+```sh
+cp tests/input/test21.tup input.tup
+python3 main.py
+```
+
+Then compare `output.txt` with `tests/expected/test21.txt`.

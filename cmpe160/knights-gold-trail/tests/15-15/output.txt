@@ -1,0 +1,44 @@
+Objective 1 cannot be reached!
+Objective 2 cannot be reached!
+Starting position: (9, 6)
+Step Count: 1, move to (10, 6). Total Cost: 9.61.
+Step Count: 2, move to (11, 6). Total Cost: 18.00.
+Step Count: 3, move to (12, 6). Total Cost: 26.83.
+Step Count: 4, move to (13, 6). Total Cost: 35.03.
+Step Count: 5, move to (13, 7). Total Cost: 37.08.
+Step Count: 6, move to (13, 8). Total Cost: 38.51.
+Step Count: 7, move to (13, 9). Total Cost: 40.45.
+Step Count: 8, move to (13, 10). Total Cost: 42.25.
+Step Count: 9, move to (12, 10). Total Cost: 47.01.
+Step Count: 10, move to (11, 10). Total Cost: 50.85.
+Step Count: 11, move to (11, 11). Total Cost: 59.28.
+Step Count: 12, move to (11, 12). Total Cost: 67.54.
+Step Count: 13, move to (11, 13). Total Cost: 71.10.
+Step Count: 14, move to (11, 14). Total Cost: 73.23.
+Objective 3 reached!
+Starting position: (11, 14)
+Step Count: 1, move to (11, 13). Total Cost: 2.13.
+Step Count: 2, move to (11, 12). Total Cost: 5.69.
+Step Count: 3, move to (11, 11). Total Cost: 13.95.
+Step Count: 4, move to (11, 10). Total Cost: 22.38.
+Step Count: 5, move to (11, 9). Total Cost: 32.10.
+Step Count: 6, move to (10, 9). Total Cost: 41.53.
+Step Count: 7, move to (9, 9). Total Cost: 43.37.
+Step Count: 8, move to (8, 9). Total Cost: 46.53.
+Step Count: 9, move to (7, 9). Total Cost: 50.36.
+Step Count: 10, move to (6, 9). Total Cost: 58.44.
+Step Count: 11, move to (6, 8). Total Cost: 66.44.
+Step Count: 12, move to (5, 8). Total Cost: 75.16.
+Step Count: 13, move to (4, 8). Total Cost: 79.95.
+Step Count: 14, move to (4, 7). Total Cost: 89.56.
+Step Count: 15, move to (4, 6). Total Cost: 98.29.
+Step Count: 16, move to (3, 6). Total Cost: 107.77.
+Step Count: 17, move to (3, 5). Total Cost: 117.47.
+Step Count: 18, move to (2, 5). Total Cost: 125.99.
+Step Count: 19, move to (1, 5). Total Cost: 128.77.
+Step Count: 20, move to (0, 5). Total Cost: 132.05.
+Step Count: 21, move to (0, 4). Total Cost: 135.42.
+Step Count: 22, move to (0, 3). Total Cost: 144.47.
+Step Count: 23, move to (0, 2). Total Cost: 153.21.
+Objective 4 reached!
+Total Step: 37, Total Cost: 226.44

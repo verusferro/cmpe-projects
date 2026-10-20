@@ -1,0 +1,9 @@
+registered freelancer free1
+registered freelancer free2
+registered freelancer free3
+registered customer cust1
+available freelancers for tutoring (top 3):
+free1 - composite: 8615, price: 400, rating: 5.0
+free2 - composite: 7942, price: 458, rating: 5.0
+free3 - composite: 7513, price: 415, rating: 5.0
+auto-employed best freelancer: free1 for customer cust1

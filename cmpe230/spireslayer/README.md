@@ -26,3 +26,13 @@ make
 ```
 
 Type `Exit` to quit.
+
+## Tests
+
+`tests/input` has the course's test inputs, and `tests/expected` has the output each one should give. To run a test:
+
+```sh
+./spireslayer < tests/input/test2.txt
+```
+
+Then compare the result with `tests/expected/test2.txt`. Every output line starts with the `»` prompt.

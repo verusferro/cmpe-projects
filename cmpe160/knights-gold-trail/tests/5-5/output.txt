@@ -1,0 +1,13 @@
+Starting position: (0, 0)
+Step Count: 1, move to (1, 0). Total Cost: 1.16.
+Step Count: 2, move to (1, 1). Total Cost: 9.53.
+Step Count: 3, move to (2, 1). Total Cost: 18.02.
+Objective 1 reached!
+Starting position: (2, 1)
+Step Count: 1, move to (2, 2). Total Cost: 1.42.
+Step Count: 2, move to (3, 2). Total Cost: 3.16.
+Step Count: 3, move to (3, 3). Total Cost: 5.20.
+Step Count: 4, move to (4, 3). Total Cost: 14.06.
+Step Count: 5, move to (4, 4). Total Cost: 22.28.
+Objective 2 reached!
+Total Step: 8, Total Cost: 40.30

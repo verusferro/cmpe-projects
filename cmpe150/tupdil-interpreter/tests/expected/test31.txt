@@ -1,0 +1,3 @@
+-6
+10
+Runtime error at line 10.

@@ -1,0 +1,12 @@
+Programı başlat.
+a bir reel-sayı olsun.
+br bir tam-sayı olsun.
+br değeri 1 olsun.
+a değeri 1,34 olsun.
+A yazdır.
+a değeri b artı br olsun.
+a artı a eksi br artı a yazdır.
+a artı a eksi br artı a yazdır.
+a artı a eksi br artı a. satıra zıpla.
+A yazdır.
+Programı bitir.

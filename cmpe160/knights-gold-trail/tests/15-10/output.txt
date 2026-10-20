@@ -1,0 +1,37 @@
+Starting position: (2, 0)
+Step Count: 1, move to (3, 0). Total Cost: 9.57.
+Step Count: 2, move to (3, 1). Total Cost: 18.96.
+Step Count: 3, move to (4, 1). Total Cost: 23.29.
+Step Count: 4, move to (4, 2). Total Cost: 24.59.
+Step Count: 5, move to (4, 3). Total Cost: 26.45.
+Step Count: 6, move to (5, 3). Total Cost: 28.31.
+Step Count: 7, move to (6, 3). Total Cost: 38.31.
+Step Count: 8, move to (7, 3). Total Cost: 46.79.
+Step Count: 9, move to (8, 3). Total Cost: 54.88.
+Step Count: 10, move to (9, 3). Total Cost: 58.61.
+Step Count: 11, move to (10, 3). Total Cost: 60.25.
+Step Count: 12, move to (10, 2). Total Cost: 62.99.
+Step Count: 13, move to (11, 2). Total Cost: 64.89.
+Step Count: 14, move to (12, 2). Total Cost: 69.76.
+Step Count: 15, move to (12, 1). Total Cost: 71.02.
+Step Count: 16, move to (13, 1). Total Cost: 80.44.
+Objective 1 reached!
+Objective 2 cannot be reached!
+Starting position: (13, 1)
+Step Count: 1, move to (12, 1). Total Cost: 9.42.
+Step Count: 2, move to (12, 2). Total Cost: 10.68.
+Step Count: 3, move to (11, 2). Total Cost: 15.55.
+Step Count: 4, move to (10, 2). Total Cost: 17.45.
+Step Count: 5, move to (10, 3). Total Cost: 20.19.
+Step Count: 6, move to (10, 4). Total Cost: 22.02.
+Step Count: 7, move to (11, 4). Total Cost: 31.46.
+Step Count: 8, move to (11, 5). Total Cost: 40.71.
+Step Count: 9, move to (11, 6). Total Cost: 48.94.
+Step Count: 10, move to (11, 7). Total Cost: 50.07.
+Step Count: 11, move to (11, 8). Total Cost: 52.85.
+Step Count: 12, move to (12, 8). Total Cost: 56.19.
+Step Count: 13, move to (12, 9). Total Cost: 59.61.
+Step Count: 14, move to (13, 9). Total Cost: 68.74.
+Step Count: 15, move to (14, 9). Total Cost: 78.64.
+Objective 3 reached!
+Total Step: 31, Total Cost: 159.08

@@ -1,0 +1,5 @@
+register_freelancer free1 tutoring 400 88 81 60 63 81
+register_freelancer free2 tutoring 458 57 60 87 61 51
+register_freelancer free3 tutoring 415 51 59 48 58 56
+register_customer cust1
+request_job cust1 tutoring 5

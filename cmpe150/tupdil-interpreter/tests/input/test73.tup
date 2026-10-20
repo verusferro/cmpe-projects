@@ -1,0 +1,13 @@
+Programı başlat.
+a bir reel-sayı olsun.
+b bir reel-sayı olsun.
+c bir reel-sayı olsun.
+d bir reel-sayı olsun.
+a değeri 5,5 olsun.
+b değeri 5,05 olsun.
+c değeri 5,005 olsun.
+d değeri 0,05 olsun.
+a artı b artı c eksi d yazdır.
+a artı b artı c eksi d. satıra zıpla.
+a değeri a artı a artı a yazdır.
+Programı bitir.

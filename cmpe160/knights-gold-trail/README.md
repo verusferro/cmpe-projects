@@ -16,7 +16,18 @@ Needs Java 21 or newer. Run from this folder so the images load.
 
 ```sh
 javac -cp lib/stdlib.jar -d out src/*.java
-java -cp out:lib/stdlib.jar Main sample-input/mapData.txt sample-input/travelCosts.txt sample-input/objectives.txt -draw
+java -cp out:lib/stdlib.jar Main tests/20-20/mapData.txt tests/20-20/travelCosts.txt tests/20-20/objectives.txt -draw
 ```
 
-Replace `Main` with `Bonus` for the bonus mode. On Windows, use `;` instead of `:` in the class path.
+Leave out `-draw` to skip the animation. On Windows, use `;` instead of `:` in the class path.
+
+## Tests
+
+Each folder in `tests` is one course test, named after the map size. It has 3 input files and the expected result:
+
+- `mapData.txt`: the map size and the type of each tile
+- `travelCosts.txt`: the cost of moving between neighbouring tiles
+- `objectives.txt`: where the knight starts and where the coins are
+- `output.txt`: the expected path and total cost
+
+The program writes its result to `out/output.txt`. For the bonus test, use `Bonus` instead of `Main` with `tests/20-20-Bonus`. It writes to `out/bonus.txt`.
