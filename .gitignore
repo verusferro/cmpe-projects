@@ -1,0 +1,8 @@
+*.class
+*.o
+out/
+build/
+__pycache__/
+output.txt
+cmpe230/spireslayer/spireslayer
+cmpe230/schedsim/schedsim
